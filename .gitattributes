@@ -1,0 +1,2 @@
+# Preserve the source CSV line endings used by LOAD DATA.
+data/raw/layoffs.csv -text
